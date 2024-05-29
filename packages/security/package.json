@@ -1,0 +1,13 @@
+{
+	"name": "@natrix-pub/security",
+	"version": "0.0.1",
+	"type": "commonjs",
+	"description": "NATRIX - Ramboo - Security",
+	"keywords": [
+		"NATRIX",
+		"Security",
+		"Ramboo"
+	],
+	"author": "NATRIX Team",
+	"license": "ISC"
+}
